@@ -102,4 +102,21 @@ All 12 classifications matched my manual category check. Both approaches produce
 
 ## Verification Note
 
+## Combined Comparison Table
+
+| Line | Zero-shot tag | Few-shot tag | Correct tag |
+|---|---|---|---|
+| 1 | Food | Food | Food |
+| 2 | Rent | Rent | Rent |
+| 3 | Travel | Travel | Travel |
+| 4 | Food | Food | Food |
+| 5 | Bills | Bills | Bills |
+| 6 | Other | Other | Other |
+| 7 | Travel | Travel | Travel |
+| 8 | Bills | Bills | Bills |
+| 9 | Shopping | Shopping | Shopping |
+| 10 | Rent | Rent | Rent |
+| 11 | Other | Other | Other |
+| 12 | Other | Other | Other |
+
 Few-shot prompting used three examples to guide the AI. In this task, it did not improve accuracy because zero-shot prompting had already classified all 12 transactions correctly.
