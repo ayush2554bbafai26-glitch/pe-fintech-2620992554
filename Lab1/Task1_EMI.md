@@ -43,6 +43,14 @@ EMI Formula:
 
 EMI = P × r × (1+r)^n / ((1+r)^n - 1)
 
+Where:
+
+P = Loan Principal (₹2,50,000)
+
+r = Monthly Interest Rate (0.0116666667)
+
+n = Number of Monthly Instalments (24)
+
 Substituting the values:
 
 EMI = 250000 × 0.0116666667 × (1.0116666667)^24 / ((1.0116666667)^24 - 1)
@@ -56,3 +64,16 @@ Total Repayment ≈ ₹2,88,077.30
 Total Interest = Total Repayment - Loan Amount
 
 Total Interest ≈ ₹38,077.30
+
+Note: Total repayment and total interest are calculated using the unrounded EMI value.
+
+EMI Summary Table
+
+Particulars| Value
+Loan Amount| ₹2,50,000
+Annual Interest Rate| 14%
+Monthly Interest Rate| 1.166667%
+Loan Tenure| 24 months
+Monthly EMI| ₹12,003.22
+Total Repayment| ₹2,88,077.30
+Total Interest| ₹38,077.30
