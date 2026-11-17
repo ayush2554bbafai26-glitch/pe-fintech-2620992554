@@ -40,4 +40,22 @@ Reply: We apologize for the inconvenience. Please share the issue you are facing
 
 Verification
 
+## AI Output for 3 New Complaints
+
+**Complaint 1:** My UPI payment failed but the amount was deducted.
+
+**Reply:** We are sorry for the inconvenience. Please share the UPI transaction details through the bank's official support channel so our team can verify the transaction and assist you.
+
+**Complaint 2:** I was charged twice for one purchase.
+
+**Reply:** We understand your concern. Please share both transaction details through the bank's official support channel so our team can investigate the duplicate charge.
+
+**Complaint 3:** My loan application status has not been updated.
+
+**Reply:** We understand your concern. Please share your loan application reference number through the bank's official support channel so our team can check the status and provide an update.
+
+## Verification
+
+All three replies are polite and professional. None promises a refund, refund date, or specific amount.
+
 All three replies are polite and professional. No specific refund date or amount is promised. The replies avoid guaranteeing a resolution before verification.
