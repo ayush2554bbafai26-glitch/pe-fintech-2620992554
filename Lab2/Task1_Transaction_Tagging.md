@@ -55,3 +55,51 @@ Do not invent any additional transactions.
 ### Output Summary
 
 All 12 fictional transactions were classified into one of the six predefined categories using zero-shot prompting. No additional transactions were added.
+
+## Part 2: Few-Shot Classification
+
+### Prompt V2
+
+Classify the same 12 bank statement transactions into Food, Rent, Travel, Shopping, Bills, or Other.
+
+First study these 3 examples:
+
+1. Restaurant payment – Food
+2. Monthly house rent – Rent
+3. Bus ticket – Travel
+
+Now classify all 12 transactions from my previous prompt using these examples as guidance.
+
+Show a table with Transaction No., Description, and Category. Do not add or remove transactions.
+
+### Output V2
+
+| Transaction No. | Description | Category |
+|---|---|---|
+| 1 | Green Leaf Restaurant – ₹450 | Food |
+| 2 | House rent – ₹12,000 | Rent |
+| 3 | Metro card recharge – ₹500 | Travel |
+| 4 | Fresh Mart groceries – ₹1,250 | Food |
+| 5 | Electricity bill – ₹1,800 | Bills |
+| 6 | Movie ticket – ₹600 | Other |
+| 7 | Monthly bus pass – ₹900 | Travel |
+| 8 | Mobile recharge – ₹299 | Bills |
+| 9 | City Book Store – ₹750 | Shopping |
+| 10 | Monthly apartment rent – ₹10,000 | Rent |
+| 11 | Birthday gift transfer – ₹1,000 | Other |
+| 12 | Hospital consultation – ₹800 | Other |
+
+## Part 3: Accuracy Comparison and Manual Verification
+
+I compared the zero-shot and few-shot results with the transaction descriptions.
+
+| Approach | Correct classifications | Accuracy |
+|---|---:|---:|
+| Zero-shot | 12/12 | 100% |
+| Few-shot | 12/12 | 100% |
+
+All 12 classifications matched my manual category check. Both approaches produced the same categories.
+
+## Verification Note
+
+Few-shot prompting used three examples to guide the AI. In this task, it did not improve accuracy because zero-shot prompting had already classified all 12 transactions correctly.
