@@ -84,7 +84,7 @@ Total Repayment = EMI × Number of Months
 
 = 12,003.22 × 24
 
-= ₹2,88,077.30 (approximately)
+= ₹2,88,077.28 (approximately)
 
 6. Calculate Total Interest
 
