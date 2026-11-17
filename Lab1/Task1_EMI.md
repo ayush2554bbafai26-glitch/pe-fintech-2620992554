@@ -33,7 +33,7 @@ Reflection
 The revised prompt gives clearer instructions and asks for the calculation in separate steps. This makes the answer easier to understand and verify.
 EMI Formula and Calculation
 
-Monthly Interest Rate (r) = 14 / (12 × 100) = 0.011667
+Monthly Interest Rate (r) = 14 / (12 × 100) = 0.0116666667
 
 Loan Principal (P) = ₹2,50,000
 
@@ -45,7 +45,7 @@ EMI = P × r × (1+r)^n / ((1+r)^n - 1)
 
 Substituting the values:
 
-EMI = 250000 × 0.011667 × (1.011667)^24 / ((1.011667)^24 - 1)
+EMI = 250000 × 0.0116666667 × (1.0116666667)^24 / ((1.0116666667)^24 - 1)
 
 Monthly EMI ≈ ₹12,003.22
 
