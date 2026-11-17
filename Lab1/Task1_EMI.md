@@ -31,3 +31,28 @@ Expected total interest ≈ ₹38,077.30
 Reflection
 
 The revised prompt gives clearer instructions and asks for the calculation in separate steps. This makes the answer easier to understand and verify.
+EMI Formula and Calculation
+
+Monthly Interest Rate (r) = 14 / (12 × 100) = 0.011667
+
+Loan Principal (P) = ₹2,50,000
+
+Number of Monthly Instalments (n) = 24
+
+EMI Formula:
+
+EMI = P × r × (1+r)^n / ((1+r)^n - 1)
+
+Substituting the values:
+
+EMI = 250000 × 0.011667 × (1.011667)^24 / ((1.011667)^24 - 1)
+
+Monthly EMI ≈ ₹12,003.22
+
+Total Repayment = EMI × 24
+
+Total Repayment ≈ ₹2,88,077.30
+
+Total Interest = Total Repayment - Loan Amount
+
+Total Interest ≈ ₹38,077.30
