@@ -1,7 +1,7 @@
 # Lab 1 – Task 4: Translation and Email Writing
 
 ## Objective
-To translate a failed-payment notification into Hindi without adding promises or dates, check it through back-translation, and draft a professional email to a partner bank.
+To translate a failed-payment notification into Hindi without adding promises or dates, check it through back-translation, and draft a professional email to a partner bank about delayed settlement.
 
 ## Tool Used
 ChatGPT
@@ -11,7 +11,7 @@ ChatGPT
 
 ## Part 1: Translation
 
-### Original English Notification
+### Sample Original English Notification
 
 "Your payment could not be completed. If your account was debited, the amount will be processed for reversal according to the bank's applicable process."
 
@@ -52,6 +52,8 @@ We are writing to bring to your attention a delay in the settlement associated w
 We request you to kindly review the transaction status and share an update on the reason for the delay. Please also let us know if any additional information or documentation is required from our operations team.
 
 We would appreciate your assistance in reviewing this matter and providing the current settlement status.
+
+We look forward to your response and request you to share any available updates at your earliest convenience. Thank you for your cooperation and support in resolving this settlement delay.
 
 Regards,  
 [Operations Executive Name]  
