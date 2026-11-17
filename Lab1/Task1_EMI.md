@@ -117,7 +117,7 @@ Output Summary – Version 2
 The AI calculated the monthly EMI, total repayment and total interest. It showed the monthly interest rate conversion, EMI formula, calculation steps and a final summary table.
 Reflection
 
-The revised prompt made the biggest difference because it clearly specified the loan amount, interest rate, tenure and required output. It asked the AI to show the formula, explain each variable and present the results in a table. This made the calculation easier to understand and verify. I independently checked the EMI using the full-precision monthly interest rate. I also noticed that rounding the monthly interest rate too early can affect the final result. This showed me that AI-generated financial calculations should always be checked manually.
+The revised prompt made the biggest difference because it clearly specified the loan amount, interest rate, tenure and required output. It asked the AI to show the formula, explain each variable and present the results in a table. This made the calculation easier to understand and verify. I independently checked the EMI using the full-precision monthly interest rate. I also found that multiplying the rounded EMI of ₹12,003.22 by 24 gives ₹2,88,077.28, not ₹2,88,077.30. The latter uses the unrounded EMI. This showed me why financial calculations should retain precision and why AI outputs must be checked manually before being accepted.
 
 EMI Formula and Calculation
 
