@@ -13,6 +13,7 @@ Loan Details
 
 Tool Used: ChatGPT
 Date: 17 November 2026
+
 Prompt – Version 1
 
 Explain EMI to a first-year BBA FinTech student in 50 words.
