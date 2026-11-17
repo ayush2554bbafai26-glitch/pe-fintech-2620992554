@@ -1,0 +1,3 @@
+# Lab 1 – Reflection
+
+The biggest improvement came from making my prompts more specific and adding clear instructions. In Task 1, I asked the AI to show the EMI formula and calculations, which made verification easier. In Task 2, adding category definitions helped clarify complaint classification. In Task 3, asking the AI not to invent information helped separate facts from assumptions. In Task 4, asking for back-translation helped check whether the Hindi notification kept the original meaning. I learned that AI outputs should not be trusted blindly. Checking calculations, labels, facts and translations independently is important when using AI for financial tasks.
