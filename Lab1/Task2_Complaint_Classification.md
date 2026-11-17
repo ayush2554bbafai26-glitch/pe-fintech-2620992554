@@ -5,8 +5,6 @@ To classify fictional fintech customer complaints into the correct categories us
 
 ## Tool Used
 ChatGPT
-
-## Date
 17 November 2026
 
 ## Prompt V1 – Zero-shot Prompt
