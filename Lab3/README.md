@@ -20,8 +20,12 @@ KhataPe has ₹50 crore available to lend.
 Independently calculate interest income, processing fee income, expected loss, cost of funds and net result.
 
 ## Files
-Task prompts, AI responses, calculation spreadsheet, error-checking table and reflection will be included in this folder.
+- "Task1_Direct_vs_CoT.md" – Direct and step-by-step prompts, AI responses and verification.
+- "Task2_Changed_Assumption.md" – Revised assumption, AI recalculation and error-checking table.
+- "Task3_Non_Financial_Factors.md" – Non-financial factors and fact-versus-hypothesis classification.
+- "Lab3_KhataPe_Lending_Calculations.xlsx" – Independent calculations for both original options and the revised scenario.
+- "README.md" – Lab overview and 100-word reflection.
 
 Lab 3 – 100-Word Reflection
 
-Step-by-step prompting made the AI's answer more transparent and easier to verify, but it did not automatically make it more accurate. In the direct prompt, the AI recommended Option B because of its lower default rate. After using a step-by-step prompt, it calculated the interest income, processing fee, expected loss and cost of funds, and recommended Option A. When Option B's default rate increased to 7%, the AI correctly updated its expected loss and net result. My independent calculations matched the AI's results under the stated assumptions. This exercise taught me that detailed reasoning can be convincing, but independent verification is essential.
+Step-by-step prompting made the AI's answer more transparent and easier to verify, but it did not automatically make it more accurate. In the direct prompt, the AI recommended Option B because of its lower default rate. After using a step-by-step prompt, it calculated the interest income, processing fee, expected loss and cost of funds, and recommended Option A. When Option B's default rate increased to 7%, the AI correctly updated its expected loss and net result. My independent calculations matched the AI's results under the stated assumptions. This exercise taught me that detailed reasoning can be convincing, but independent verification is always essential.
