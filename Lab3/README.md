@@ -21,3 +21,7 @@ Independently calculate interest income, processing fee income, expected loss, c
 
 ## Files
 Task prompts, AI responses, calculation spreadsheet, error-checking table and reflection will be included in this folder.
+
+Lab 3 – 100-Word Reflection
+
+Step-by-step prompting made the AI's answer more transparent and easier to verify, but it did not automatically make it more accurate. In the direct prompt, the AI recommended Option B because of its lower default rate. After using a step-by-step prompt, it calculated the interest income, processing fee, expected loss and cost of funds, and recommended Option A. When Option B's default rate increased to 7%, the AI correctly updated its expected loss and net result. My independent calculations matched the AI's results under the stated assumptions. This exercise taught me that detailed reasoning can be convincing, but independent verification is essential.
