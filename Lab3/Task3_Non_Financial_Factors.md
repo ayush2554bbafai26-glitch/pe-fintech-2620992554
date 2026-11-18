@@ -42,8 +42,11 @@ Compliance matters because regulatory issues can affect the lender and its custo
 
 **My Verification Note:**
 
-This is a regulatory compliance area requiring verification from official RBI publications. The AI response does not establish that KhataPe is compliant or confirm which requirements apply to its particular lending arrangements.
+The Reserve Bank of India issued the Reserve Bank of India (Digital Lending) Directions, 2025 on 8 May 2025. These directions cover borrower creditworthiness, disclosures, loan disbursal, grievance redressal and data requirements.
 
+Official Source: https://www.rbi.org.in/Scripts/NotificationUser.aspx/NotificationUser.aspx?Id=12848
+
+This confirms that RBI has issued digital lending directions. It does not establish whether KhataPe complies with them. The applicability of specific requirements to KhataPe must be checked.
 **Classification:** Fact to verify from an official source.
 
 ### 2. Customer Risk
